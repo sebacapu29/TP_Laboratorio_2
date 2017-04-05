@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E33B63A7-CAE9-479B-8517-7D128BB6A278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraCapurro", "CalculadoraCapurro\CalculadoraCapurro.csproj", "{5A47C0DC-4EC4-4D10-9F59-82D6900F6526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E33B63A7-CAE9-479B-8517-7D128BB6A278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B63A7-CAE9-479B-8517-7D128BB6A278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B63A7-CAE9-479B-8517-7D128BB6A278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B63A7-CAE9-479B-8517-7D128BB6A278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A47C0DC-4EC4-4D10-9F59-82D6900F6526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A47C0DC-4EC4-4D10-9F59-82D6900F6526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A47C0DC-4EC4-4D10-9F59-82D6900F6526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A47C0DC-4EC4-4D10-9F59-82D6900F6526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
