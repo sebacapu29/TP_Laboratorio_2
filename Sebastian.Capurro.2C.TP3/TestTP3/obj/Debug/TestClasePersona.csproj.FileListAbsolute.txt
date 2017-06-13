@@ -1,0 +1,16 @@
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\TestClasePersona.exe.config
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\TestClasePersona.exe
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\TestClasePersona.pdb
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\obj\Debug\TestClasePersona.csprojResolveAssemblyReference.cache
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\obj\Debug\TestClasePersona.exe
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\obj\Debug\TestClasePersona.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\TestClasePersona.exe.config
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\TestClasePersona.exe
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\TestClasePersona.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\obj\Debug\TestClasePersona.csprojResolveAssemblyReference.cache
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\obj\Debug\TestClasePersona.exe
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\obj\Debug\TestClasePersona.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\Entidades.dll
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\Entidades.pdb
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\Entidades.dll
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\TestClasePersona\bin\Debug\Entidades.pdb

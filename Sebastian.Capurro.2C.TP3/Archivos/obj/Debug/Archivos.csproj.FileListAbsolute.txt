@@ -1,0 +1,7 @@
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Archivos\bin\Debug\Excepciones.pdb

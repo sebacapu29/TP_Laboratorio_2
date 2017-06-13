@@ -1,0 +1,10 @@
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Seba_Capu\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.pdb
