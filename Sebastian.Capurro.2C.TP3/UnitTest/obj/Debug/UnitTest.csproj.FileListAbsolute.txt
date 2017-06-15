@@ -1,0 +1,15 @@
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Entidades.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Excepciones.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Archivos.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Entidades.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Excepciones.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\Archivos.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\UnitTest\obj\Debug\UnitTest.pdb
