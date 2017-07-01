@@ -10,3 +10,10 @@ C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.dl
 C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\bin\Debug\Excepciones.dll
 C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\bin\Debug\Entidades.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\bin\Debug\Entidades.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\obj\Debug\Entidades.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\EntidadesAbstractas\obj\Debug\Entidades.pdb

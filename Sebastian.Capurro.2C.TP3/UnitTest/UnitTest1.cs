@@ -39,7 +39,7 @@ namespace UnitTest
             }
             catch (Exception e)
             {
-                Assert.IsInstanceOfType(e, typeof(DniIvalidoException));
+                Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
             }
         }
         /// <summary>
@@ -62,15 +62,25 @@ namespace UnitTest
         /// </summary>
         [TestMethod]
         public void checkNumeroDniIvalidoExt()
-        {
+        {     
             try
             {
                 Alumno a2 = new Alumno(2, "Hernan", "Pachkevitch", "499999", EntidadesAbstractas.Persona.ENacionalidad.Extranjero, Universidad.EClases.Legislacion, Alumno.EEstadoCuenta.AlDia);
             }
-            catch (Exception e)
+            catch (NacionalidadInvalidaException e)
             {
                 Assert.IsInstanceOfType(e, typeof(NacionalidadInvalidaException));
             }
+        }
+        /// <summary>
+        /// Verifica que el valor ingresado es incorrecto
+        /// </summary>
+        [TestMethod]
+        public void checkNombreApellido()
+        {
+            string valorErroneo = " ";
+            Alumno a2 = new Alumno(2, "Rodrigo", "Pe4ñaloza", "32999999", EntidadesAbstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Legislacion, Alumno.EEstadoCuenta.AlDia);
+            Assert.AreEqual(valorErroneo, a2.Apellido);
         }
         /// <summary>
         /// Verifica que no haya valores nulos

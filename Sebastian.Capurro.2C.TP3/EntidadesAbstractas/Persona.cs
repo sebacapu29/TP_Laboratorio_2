@@ -126,7 +126,7 @@ namespace EntidadesAbstractas
             for (int i = 0; i < dato.Length; i++)
             {
                 if (char.IsNumber(dato, i))
-                    throw new Exception("Formato de cadena Invalido para el tipo de dato");
+                    return " ";
             }
             return dato;
         }
@@ -147,7 +147,7 @@ namespace EntidadesAbstractas
                     {
                         if (dniRetorno < 1 || dniRetorno > 89999999)
                         {
-                            throw new DniIvalidoException("El DNI no es demasiado corto o largo para la nacionalidad");
+                            throw new NacionalidadInvalidaException("El DNI no es demasiado corto o largo para la nacionalidad");
                         }
                     }
                     else

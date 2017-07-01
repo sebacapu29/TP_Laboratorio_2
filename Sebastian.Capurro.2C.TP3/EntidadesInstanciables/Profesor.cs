@@ -7,7 +7,7 @@ using EntidadesAbstractas;
 
 namespace EntidadesInstanciables
 {
-    public sealed class Profesor:Universitario
+    public sealed class Profesor : Universitario
     {
         private Queue<Universidad.EClases> _clasesDelDia;
         private static Random _random;
@@ -17,10 +17,10 @@ namespace EntidadesInstanciables
         {
             Profesor._random = new Random();
         }
-        private Profesor():base()
+        private Profesor() : base()
         {
         }
-        public Profesor(int id,string nombre,string apellido,string dni, ENacionalidad nacionalidad):base(id,nombre,apellido,dni,nacionalidad)
+        public Profesor(int id, string nombre, string apellido, string dni, ENacionalidad nacionalidad) : base(id, nombre, apellido, dni, nacionalidad)
         {
             this._clasesDelDia = new Queue<Universidad.EClases>();
             this._clasesDelDia.Enqueue((Universidad.EClases)Profesor._random.Next(0, 4));
@@ -35,7 +35,7 @@ namespace EntidadesInstanciables
         /// <returns>String con los datos</returns>
         protected override string MostrarDatos()
         {
-            return base.MostrarDatos()+this.ParticiparEnClase();
+            return base.MostrarDatos() + this.ParticiparEnClase();
         }
         /// <summary>
         /// Se encarga de construir un string con los datos de las clases que tiene el profesor
@@ -46,9 +46,9 @@ namespace EntidadesInstanciables
             StringBuilder sb = new StringBuilder();
             foreach (Universidad.EClases clase in this._clasesDelDia)
             {
-                sb.AppendFormat("\n{0}",clase.ToString());
+                sb.AppendFormat("\n{0}", clase.ToString());
             }
-            return "\nCLASES DEL DIA: "+sb.ToString()+"\n";
+            return "\nCLASES DEL DIA: " + sb.ToString() + "\n";
         }
         /// <summary>
         /// Se encarga de devolver todos los datos del profesor.
@@ -67,7 +67,7 @@ namespace EntidadesInstanciables
             bool retorno = false;
             foreach (Universidad.EClases claseDelProfe in i._clasesDelDia)
             {
-                if(claseDelProfe == clase)
+                if (claseDelProfe == clase)
                 {
                     retorno = true;
                     break;

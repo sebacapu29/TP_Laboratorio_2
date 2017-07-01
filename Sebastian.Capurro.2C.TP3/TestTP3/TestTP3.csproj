@@ -49,13 +49,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EntidadesInstanciables\EntidadesInstanciables.csproj">
-      <Project>{1dcb7d83-1c65-4938-bc37-b3a2eeb6ad97}</Project>
-      <Name>EntidadesInstanciables</Name>
+    <ProjectReference Include="..\Archivos\Archivos.csproj">
+      <Project>{31e68073-f685-43b1-8528-f88823bcbf90}</Project>
+      <Name>Archivos</Name>
     </ProjectReference>
     <ProjectReference Include="..\EntidadesAbstractas\EntidadesAbstractas.csproj">
       <Project>{145aa36f-c0d3-4388-b609-d77e8c10f5e3}</Project>
       <Name>EntidadesAbstractas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesInstanciables\EntidadesInstanciables.csproj">
+      <Project>{1dcb7d83-1c65-4938-bc37-b3a2eeb6ad97}</Project>
+      <Name>EntidadesInstanciables</Name>
     </ProjectReference>
     <ProjectReference Include="..\Excepciones\Excepciones.csproj">
       <Project>{0ba67143-6fc6-4454-9be7-30825f39fc9d}</Project>

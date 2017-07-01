@@ -29,3 +29,14 @@ C:\Users\Capus\Desktop\Sebastian.Capurro.2C.TP3\TestTP3\obj\Debug\TestClasePerso
 C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\TestClasePersona.exe.config
 C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\obj\Debug\TestClasePersona.exe
 C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\obj\Debug\TestClasePersona.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\TestClasePersona.exe
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\TestClasePersona.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\Archivos.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\Entidades.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\Excepciones.dll
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\Archivos.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\Entidades.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\bin\Debug\Excepciones.pdb
+C:\Users\Capus\Documents\GitHub\TP_Laboratorio_2\Sebastian.Capurro.2C.TP3\TestTP3\obj\Debug\TestTP3.csprojResolveAssemblyReference.cache

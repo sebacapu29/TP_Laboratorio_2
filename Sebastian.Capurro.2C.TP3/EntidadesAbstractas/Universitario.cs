@@ -32,7 +32,7 @@ namespace EntidadesAbstractas
 
         public static bool operator ==(Universitario pg1,Universitario pg2)
         {
-            return (pg1.Nacionalidad == pg2.Nacionalidad && (pg1.DNI == pg2.DNI || pg1._legajo == pg2._legajo));
+            return pg1.Equals(pg2);
         }
         public static bool operator !=(Universitario pg1, Universitario pg2)
         {
@@ -40,7 +40,10 @@ namespace EntidadesAbstractas
         }
         public override bool Equals(object obj)
         {
-            return (obj is Universitario);
+            if(obj is Universitario)
+                return (this.Nacionalidad == ((Universitario)obj).Nacionalidad && (this.DNI == ((Universitario)obj).DNI || this._legajo == ((Universitario)obj)._legajo));
+            else
+                return false;
         }
     }
 }
